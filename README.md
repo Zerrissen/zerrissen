@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerrissen)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerrissen&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Zerrissen/zerrissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
