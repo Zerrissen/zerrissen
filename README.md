@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zerrissen&theme=material-palenight&count_private=true&show_icons=true" alt="Zerrissen's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zerrissen&theme=material-palenight&count_private=true&show_icons=true" alt="Zerrissen's github stats" /></a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerrissen&theme=material-palenight" /></a>
 <br/>
