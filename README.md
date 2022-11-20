@@ -1,4 +1,4 @@
-### Sup! I'm Nathan
+# Sup! I'm Nathan
 I'm a (mostly) self-taught programmer and CTF competitor.
 
 ## Github Stats
