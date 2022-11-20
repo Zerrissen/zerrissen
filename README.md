@@ -1,12 +1,14 @@
 ### Hi there 👋
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zerrissen&theme=material-palenight&count_private=true&show_icons=true" alt="Zerrissen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerrissen&theme=material-palenight" /></a> |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerrissen&theme=material-palenight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerrissen&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/zerrissen/nerdkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerrissen&repo=nerdkit&theme=material-palenight&show-owner" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerrissen&repo=pdq-scraper&theme=material-palenight&show-owner" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerrissen&repo=nerdkit&theme=material-palenight&show-owner)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerrissen&repo=pdq-scraper&theme=material-palenight&show-owner)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zerrissen/zerrissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
