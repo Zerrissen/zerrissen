@@ -6,7 +6,7 @@ I'm a (mostly) self-taught programmer and CTF competitor.
 <br/>
 
 ### My used languages
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerrissen&theme=material-palenight&size_weight=0.5&count_weight=0.5" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerrissen&theme=material-palenight&size_weight=0.8&count_weight=0.2" /></a>
 <br/>
 
 ### Some of my repos
