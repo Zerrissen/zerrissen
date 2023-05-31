@@ -13,7 +13,7 @@ I'm a (mostly) self-taught programmer and CTF competitor.
 <a href="https://github.com/zerrissen/nerdkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerrissen&repo=nerdkit&theme=material-palenight&show-owner" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/zerrissen/pdq-scraper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerrissen&repo=pdq-scraper&theme=material-palenight&show-owner" />
 </a>
 
