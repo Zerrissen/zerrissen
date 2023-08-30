@@ -6,7 +6,7 @@ I'm a (mostly) self-taught programmer and CTF competitor.
 <br/>
 
 ### My used languages
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerrissen&theme=material-palenight&size_weight=0.9&count_weight=0.1" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerrissen&theme=material-palenight&size_weight=0.9&count_weight=0.1&hide=html" /></a>
 <br/>
 
 ### Some of my repos
@@ -16,18 +16,3 @@ I'm a (mostly) self-taught programmer and CTF competitor.
 <a href="https://github.com/zerrissen/pdq-scraper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerrissen&repo=pdq-scraper&theme=material-palenight&show-owner" />
 </a>
-
-<!--
-**Zerrissen/zerrissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
